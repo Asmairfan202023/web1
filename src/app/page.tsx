@@ -10,7 +10,7 @@ const Home = () => {
     
       <div className="container">
     <div className=" bg-gray-100 text-center p-8">
-   <h1 className="text-4xl font-bold">Porfolio</h1>
+   <h1 className="text-4xl font-bold">Portfolio</h1>
    <h1 className="text-4xl font-bold">I AM ASMA IRFAN</h1>
         <div className='port'>
      <Image src='/image1.jpg' alt='about image' width={200} height={200} 
